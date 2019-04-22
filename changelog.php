@@ -23,6 +23,13 @@ Legende / Legend:
 - -> Removed
 ! -> Note
 
+***     Version 3.4.0                ***
+^ Change update server to new website
++ Add support for alternative layouts
++ Introduce Justified Gallery
+^ Row should be opened only if there are images
+
+
 ***     Version 3.3                  ***
 # Improvements in language files
 + Option for filtering images based on 'featured' status
