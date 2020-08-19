@@ -1,8 +1,6 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/changelog.php $
-// $Id: changelog.php 4411 2014-07-12 08:45:56Z erftralle $
 /****************************************************************************************\
- **   Module JoomImages for JoomGallery                                                  **
+**   Module JoomImages for JoomGallery                                                  **
 **   By: JoomGallery::ProjectTeam                                                       **
 **   Released under GNU GPL Public License                                              **
 **   License: http://www.gnu.org/copyleft/gpl.html or have a look                       **

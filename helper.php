@@ -1,6 +1,4 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/helper.php $
-// $Id: helper.php 4353 2014-02-02 10:04:37Z erftralle $
 /****************************************************************************************\
 **   Module JoomImages for JoomGallery                                                  **
 **   By: JoomGallery::ProjectTeam                                                       **

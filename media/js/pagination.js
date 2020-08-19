@@ -1,5 +1,3 @@
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/media/js/pagination.js $
-// $Id: pagination.js 4120 2013-02-28 21:51:03Z erftralle $
 /****************************************************************************************\
 **   Module JoomImages for JoomGallery                                                  **
 **   By: JoomGallery::ProjectTeam                                                       **
