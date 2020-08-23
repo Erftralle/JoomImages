@@ -1,6 +1,5 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/tmpl/default.php $
-// $Id: default.php 4120 2013-02-28 21:51:03Z erftralle $
+
 defined('_JEXEC') or die('Restricted access');
 
 // Defining sectiontableentry class

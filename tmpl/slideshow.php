@@ -1,6 +1,5 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/tmpl/slideshow.php $
-// $Id: slideshow.php 4411 2014-07-12 08:45:56Z erftralle $
+
 defined('_JEXEC') or die('Restricted access');
 
 $csstag=$joomimgObj->getConfig("csstag");

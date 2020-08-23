@@ -1,6 +1,4 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/mod_joomimg.php $
-// $Id: mod_joomimg.php 4313 2013-07-06 08:48:31Z erftralle $
 /****************************************************************************************\
 **   Module JoomImages for JoomGallery                                                  **
 **   By: JoomGallery::ProjectTeam                                                       **

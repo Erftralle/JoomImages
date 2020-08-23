@@ -1,6 +1,4 @@
 <?php
-// $HeadURL: https://joomgallery.org/svn/joomgallery/JG-3/Modules/JoomImages/trunk/helper.php $
-// $Id: helper.php 4353 2014-02-02 10:04:37Z erftralle $
 /****************************************************************************************\
 **   Module JoomImages for JoomGallery                                                  **
 **   By: JoomGallery::ProjectTeam                                                       **
@@ -157,7 +155,14 @@ class modJoomImagesHelper extends joominterface
       $this->addConfig('resultbytimefrom', $params->get('resultbytimefrom', 0));
       $this->addConfig('resultbytimeto', $params->get('resultbytimeto', 0));
     }
-    $this->addConfig('cats', $params->get('cats', ''));
+    if(is_array($params->get('cats', '')))
+    {
+      $this->addConfig('cats', implode(',', $params->get('cats', '')));
+    }
+    else
+    {
+      $this->addConfig('cats', '');
+    }
     $this->addConfig('showorhidecats', $params->get('showorhidecats', 1));
     $this->addConfig('includesubcats', $params->get('includesubcats', 0));
     $this->addConfig('dynamiccats', $params->get('dynamiccats', 0));
