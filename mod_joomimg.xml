@@ -2,7 +2,7 @@
 <extension type="module" version="3.0" client="site" method="upgrade">
   <name>mod_joomimg</name>
   <author>JoomGallery::Project Team</author>
-  <creationDate>2020/08/19</creationDate>
+  <creationDate>2020/08/23</creationDate>
   <copyright>(C) 2009 - 2020 JoomGallery::Project Team</copyright>
   <license>This module is released under the GNU/GPL License</license>
   <authorEmail>team@joomgalleryfriends.net</authorEmail>

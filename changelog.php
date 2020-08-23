@@ -21,6 +21,12 @@ Legende / Legend:
 - -> Removed
 ! -> Note
 
+***     Version 3.4.1 20200823       ***
+^ Improving category selection
+# Loading JoomInterface class in helper.php to avoid error
+  when using the joomla updater
+
+
 ***     Version 3.4.0                ***
 ^ Change update server to new website
 + Add support for alternative layouts
